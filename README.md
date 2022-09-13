@@ -1,4 +1,15 @@
-# 👋 Hello, I'm Andrei 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/kyKuZzsa6bShl3SaHe/giphy.gif" width="100"/>
+</div>
+
+<div id="badges" align="center">
+    <img src="https://komarev.com/ghpvc/?username=AndreiDS63&style=flat-square&color=blue" alt=""/>
+    <h1>
+    👋 Hello, I'm Andrei 
+    </h1>
+</div>
+
+
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning at SkillFactory
 
