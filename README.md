@@ -5,7 +5,7 @@
 <div id="badges" align="center">
     <img src="https://komarev.com/ghpvc/?username=AndreiDS63&style=flat-square&color=blue" alt=""/>
     <h1>
-    👋 Hello, I'm Dolzhikov Andrei 
+    👋 Hello, I'm Andrei 
     </h1>
 </div>
 
