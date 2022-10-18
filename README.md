@@ -5,12 +5,12 @@
 <div id="badges" align="center">
     <img src="https://komarev.com/ghpvc/?username=AndreiDS63&style=flat-square&color=blue" alt=""/>
     <h1>
-    👋 Hello, I'm Andrei 
+    👋 Hello, I'm Dolzhikov Andrei 
     </h1>
 </div>
 
 
-- 👀 I’m interested in Data Science
+- 👀 I’m interested in Data Science and I'm looking for work in DS.
 - 🌱 I’m currently learning at SkillFactory
 
 - 📫 How to reach me: dolzhikov_as@mail.ru
