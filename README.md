@@ -11,7 +11,8 @@
 
 
 ### ⚽ About Me ⚽
-- Mining Engineer specialty Physical Processes of Mining or Oil and Gas Production
+- I'm from Samara, Russia
+- I'm a Mining Engineer specialty Physical Processes of Mining or Oil and Gas Production
 - I’m interested in Data Science and I'm looking for work in DS.
 
 ### 💼 Projects 💼
