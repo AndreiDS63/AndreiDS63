@@ -15,7 +15,7 @@
 
 📫 How to reach me: https://t.me/Dolzhikov_as  
 
-💡 Projects 💡
+### 💡 Projects 💡
 - For my portfolio guide, click **[HERE](https://github.com/AndreiDS63/educational_projects)**
 
 
