@@ -13,11 +13,12 @@
 👀 I’m interested in Data Science and I'm looking for work in DS.  
 🌱 I’m currently learning at SkillFactory  
 
-📫 How to reach me: https://t.me/Dolzhikov_as  
 
 ### 💡 Projects 💡
 - For my portfolio guide, click **[HERE](https://github.com/AndreiDS63/educational_projects)**
 
+### 📫 Connect with me 📫
+- [Telegram](https://t.me/Dolzhikov_as )
 
 
 <!---
