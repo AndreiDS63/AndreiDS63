@@ -4,18 +4,15 @@
 
 <div id="badges" align="center">
     <img src="https://komarev.com/ghpvc/?username=AndreiDS63&style=flat-square&color=blue" alt=""/>
-    <h1>
+    <h2>
     👋 Hello, I'm Andrei 
-    </h1>
+    </h2>
 </div>
-
-
-👀 I’m interested in Data Science and I'm looking for work in DS.  
-🌱 I’m currently learning at SkillFactory  
 
 
 ### ⚽ About Me ⚽
 - Mining Engineer specialty Physical Processes of Mining or Oil and Gas Production
+- I’m interested in Data Science and I'm looking for work in DS.
 
 ### 💼 Projects 💼
 - For my portfolio guide, click **[HERE](https://github.com/AndreiDS63/educational_projects)**
