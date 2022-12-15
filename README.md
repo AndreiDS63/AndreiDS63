@@ -14,8 +14,18 @@
 🌱 I’m currently learning at SkillFactory  
 
 
-### 💡 Projects 💡
+### ⚽ About Me ⚽
+- Mining Engineer specialty Physical Processes of Mining or Oil and Gas Production
+
+### 💼 Projects 💼
 - For my portfolio guide, click **[HERE](https://github.com/AndreiDS63/educational_projects)**
+
+### 💡 Core Competencies 💡
+- Python
+- SQL
+
+### ⚡️ Currently ⚡️
+- Course: SkillFactory: DSPR-2.0 Профессия Data Science
 
 ### 📫 Connect with me 📫
 - [Telegram](https://t.me/Dolzhikov_as )
