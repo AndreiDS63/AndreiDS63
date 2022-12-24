@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/kyKuZzsa6bShl3SaHe/giphy.gif" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=AndreiDS63&hide=contribs,prs" height="150"/>
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=AndreiDS63&hide=contribs,prs" height="150"/> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreiDS63&layout=compact" height="150"/>
 </div>
 
