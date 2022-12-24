@@ -1,5 +1,7 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/kyKuZzsa6bShl3SaHe/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/kyKuZzsa6bShl3SaHe/giphy.gif" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AndreiDS63&hide=contribs,prs" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreiDS63&layout=compact" height="150"/>
 </div>
 
 <div id="badges" align="center">
@@ -8,6 +10,7 @@
     👋 Hello, I'm Andrei 
     </h2>
 </div>
+
 
 
 ### ⚽ About Me ⚽
@@ -27,7 +30,6 @@
 
 ### 📫 Connect with me 📫
 - [Telegram](https://t.me/Dolzhikov_as )
-
 
 <!---
 AndreiDS63/AndreiDS63 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
